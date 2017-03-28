@@ -7,9 +7,9 @@ class Battleship:
     BOARD_SIZE = 10
 
     SHIP_INFO = [
-       # ("Aircraft Carrier", 5),
-       # ("Battleship", 4),
-       # ("Submarine", 3),
+        ("Aircraft Carrier", 5),
+        ("Battleship", 4),
+        ("Submarine", 3),
         ("Cruiser", 3),
         ("Dinghy", 2)]
 
